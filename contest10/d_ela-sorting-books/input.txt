@@ -1,0 +1,59 @@
+26
+1 1
+a
+2 2
+aa
+35 5
+aaaabaaaaaabbaaabaaaaaaaaaaaaaaaaaa
+2 2
+ab
+2 1
+ab
+2 1
+aa
+5 5
+aabaa
+52 26
+baabaaaaaabaaabbabaabaaaaabaababcaaaaabaaabaaaaaaaab
+6 1
+bbabaa
+2 1
+ab
+2 1
+cb
+2 1
+ab
+25 5
+baaaabbaabbbcbbbabaaaaaaa
+2 2
+aa
+3 1
+aab
+23 1
+aaabacacaaaabacabbbaaab
+3 1
+bab
+3 3
+acc
+14 7
+aababbabacabbb
+4 2
+acac
+3 3
+aab
+8 2
+bbbaabaa
+3 1
+aaa
+36 12
+aaaacababcaaaaabaabbbababababaaaaaaa
+4 4
+accb
+4 1
+aada
+7 7
+bdaaaac
+15 3
+abaadccbababcba
+15 5
+aabbaabecbddbaa
